@@ -2,7 +2,7 @@
 
 This is a Web application to view our Hello World smart contract. Using zilliqa-js to invoke the setHello and getHello transitions that we have created in our Hello World smart contract.
 
-![Zilliqa](zilliqa.jpg)
+![Zilliqa](zilliqa.jpg =300x300)
 ## Use a web application to view your Hello World smart contract
 ## Link any web application with ZilPay
 ## Make transition calls to your Scilla smart contract on a web application with zilliqa-js
